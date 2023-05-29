@@ -1,0 +1,2 @@
+# JavaPratik16_GirilenSayiyaKadarOlanCiftSayilariBulanProgram
+Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
